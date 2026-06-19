@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Rise" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowSplashScreenBackground">@color/rise_splash_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/rise_system_splash_icon</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/rise_splash_background</item>
+        <item name="android:windowBackground">@drawable/rise_splash_screen</item>
+    </style>
+</resources>
